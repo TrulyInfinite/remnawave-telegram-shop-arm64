@@ -1,5 +1,6 @@
-# 🚀 Deploying `remnawave-telegram-shop` for ARM64 (e.g., Oracle ARM VPS)
+# 🚀 Deploying [`remnawave-telegram-shop`](https://github.com/Jolymmiels/remnawave-telegram-shop) for ARM64 (e.g., Oracle ARM VPS)
 
+Special Thanks to Jolymmiels (`https://github.com/Jolymmiels/remnawave-telegram-shop`)
 This guide helps you build and deploy the `remnawave-telegram-shop` Telegram bot for ARM64 systems using Docker.
 
 ---
